@@ -73,6 +73,5 @@
   <figure>
     <img alt='The datasaur' src='datasaur.png'>
   </figure>
- <a href='https://www.symptoma.com/en/info/covid-19'>SARS-CoV-2</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=8721e2dc06c87b685fa28be2518a352426f4bf47'></script>
- <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/853083/t/2"></script>
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=goonqd&nd=5&style=3" border="0" alt="hit counter"></a>
 </div>

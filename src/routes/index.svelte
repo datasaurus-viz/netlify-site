@@ -73,5 +73,8 @@
   <figure>
     <img alt='The datasaur' src='datasaur.png'>
   </figure>
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=goonqd&nd=5&style=3" border="0" alt="hit counter"></a>
+  <figure>
+    <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=goonqd&nd=5&style=3" border="0" alt="hit counter"></a>
+    <figcaption>Number of Visitors</figcaption>
+  </figure>
 </div>

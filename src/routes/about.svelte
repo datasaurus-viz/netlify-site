@@ -24,7 +24,7 @@
 <div class="container">
   <h1>About</h1>
   <figure>
-    <img src='rsz_florian-klauer-489-unsplash.jpg' alt='A vintage typewriter.'>
+    <img src='https://i.pcmag.com/imagery/articles/02Xkt5sp3fVl5rGUtk3DXMi-7.fit_scale.size_1028x578.v1569485349.jpg'>
   </figure>
   <p> Just a high school student passionate about data science, machine learning, and cool data visualizations </p>
 </div>

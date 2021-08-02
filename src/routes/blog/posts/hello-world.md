@@ -1,12 +1,5 @@
 ---
-title: Hello World 👋
-date: "2019-06-11T08:38:00.000Z"
+title: Welcome to Datasaurus
+date: "2021-06-05T08:38:00.000Z"
 ---
-
-Every blog starts with a single post. This is yours. Make it great.
-
-<!-- more -->
-
-This post intentionally left blank.
-
-Write what you want.
+A blog for creative data visualizations. Feel free to email me if you have any suggestions at ____.

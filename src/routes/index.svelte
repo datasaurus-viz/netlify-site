@@ -61,7 +61,7 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Blog Template</title>
+  <title>Datasaurus</title>
 </svelte:head>
 
 <div class="home-container">
@@ -71,6 +71,6 @@
   </div>
 
   <figure>
-    <img alt='Person typing on laptop' src='datasaur.png'>
+    <img alt='The datasaur' src='datasaur.png'>
   </figure>
 </div>

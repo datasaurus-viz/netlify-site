@@ -2,7 +2,7 @@
   img {
     display: block;
     height: 50px;
-    width: 100px;
+    width: 150px;
   }
 </style>
 

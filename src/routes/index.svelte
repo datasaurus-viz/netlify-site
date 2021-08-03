@@ -66,15 +66,14 @@
 
 <div class="home-container">
   <div class="home-copy">
-    <h1>Dino-mite Data Visualizations</h1>
-    <p>A blog with creative visualizations of interesting data.</p>
+    <h1>Dino-mite Data Science</h1>
+    <p>A blog for data viz, NLP, machine learning, and assorted data science awesomeness.</p>
   </div>
 
   <figure>
     <img alt='The datasaur' src='datasaur.png'>
   </figure>
   <figure>
-    <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=goonqd&nd=5&style=3" border="0" alt="hit counter"></a>
-    <figcaption>Number of Visitors</figcaption>
+  <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gooncx&nd=5&style=1" border="0" alt="web counter"></a>    <figcaption>Number of Visitors</figcaption>
   </figure>
 </div>

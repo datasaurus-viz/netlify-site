@@ -67,7 +67,7 @@
 <div class="home-container">
   <div class="home-copy">
     <h1>Dino-mite Data Science</h1>
-    <p>A blog for data viz, NLP, machine learning, and assorted data science awesomeness.</p>
+    <p>A blog for data viz, NLP, machine learning, and assorted data science awesomeness. </p>
   </div>
 
   <figure>

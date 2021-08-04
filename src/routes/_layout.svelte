@@ -48,5 +48,8 @@
     <span>
       &copy; {new Date().getFullYear()} Datasaurus.
     </span>
+     <figure>
+  <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gooncx&nd=5&style=1" border="0" alt="web counter"></a>    <figcaption>Number of Visitors</figcaption>
+  </figure>
   </footer>
 </div>
